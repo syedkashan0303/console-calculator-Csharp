@@ -1,0 +1,6 @@
+c:\users\syed\documents\visual studio 2015\Projects\logic1\logic1\bin\Debug\logic1.exe.config
+c:\users\syed\documents\visual studio 2015\Projects\logic1\logic1\bin\Debug\logic1.exe
+c:\users\syed\documents\visual studio 2015\Projects\logic1\logic1\bin\Debug\logic1.pdb
+c:\users\syed\documents\visual studio 2015\Projects\logic1\logic1\obj\Debug\logic1.exe
+c:\users\syed\documents\visual studio 2015\Projects\logic1\logic1\obj\Debug\logic1.pdb
+c:\users\syed\documents\visual studio 2015\Projects\logic1\logic1\obj\Debug\logic1.csprojResolveAssemblyReference.cache
